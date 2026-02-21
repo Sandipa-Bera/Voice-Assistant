@@ -31,7 +31,7 @@ cd your-repo-name
 2️⃣ Install dependencies
 pip install SpeechRecognition pyttsx3 pyaudio
 
-If pyaudio gives you problems on Windows (it usually does 🙄), install it using:
+If pyaudio gives you problems on Windows (it usually does), install it using:
 pip install pipwin
 pipwin install pyaudio
 
